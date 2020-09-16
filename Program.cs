@@ -5,9 +5,8 @@ class Program
     static void Main(string[] args)
     {
         string contents = "";
-
+        ////////////////////////////////////
         System.Console.WriteLine("Öppnar byrålådan............");
-        
 
         while (true)
         {
